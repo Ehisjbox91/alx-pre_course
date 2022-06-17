@@ -1,0 +1,2 @@
+#This is a project in how to setup a github account
+### This include creating a file directory on my computer named *alx_pre_course* and then moving it to my github account repository named *alx_pre_course.git*
